@@ -68,7 +68,8 @@ assign diff = a ^ b;
 assign borrow = ~a & b;
 endmodule
 ~~~
-Developed by:MANIKANDAN M RegisterNumber:212224040183
+Developed by:Sanjeev A 
+RegisterNumber:212224230246
 
 **RTL Schematic**
 ## half adder:
